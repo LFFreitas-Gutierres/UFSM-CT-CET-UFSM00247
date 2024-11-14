@@ -14,7 +14,7 @@
 
 3. [*Julgue como certo ou errado*] A magnitude do campo elétrico nas proximidades de qualquer superfície condutora carregada, independentemente do formato, é igual a $\sigma/\epsilon_o$, onde $\sigma$ é a densidade superficial de carga elétrica. Isso é válido para o limite externo à superfície do condutor (ou seja, em uma região muito próxima da superfície).
 
-4. [*Julgue como certo ou errado*] Na Figura 1, o fluxo elétrico observado em #$A_1$ e #$A_2$ é equivalente a $-4\mu/\epsilon_o$.
+4. [*Julgue como certo ou errado*] Na Figura 1, o fluxo elétrico observado em #A1 e #A2 é equivalente a $-4\mu/\epsilon_o$.
 
 ![](Fig01.png "Figura 1")
 

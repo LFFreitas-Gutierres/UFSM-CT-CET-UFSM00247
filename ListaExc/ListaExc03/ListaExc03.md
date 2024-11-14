@@ -8,13 +8,13 @@
 
 **Leia com atenção as instruções abaixo.**
 
-1. [*Julgue como certo ou errado*] Um conjunto de cinco cargas elétricas pontuais é englobado por uma surperfície arbitrária $S$: $q_1 = +3$ nC, $q_2 = -2$ nC, $q_3 = +2$ nC, $q_4 = +4$ nC e $q_5 = -1$ nC. É correto afirmar que o fluxo elétrico através de $S$ é equivalente a 6 nNm$^2$/C$^2$.
+1. [*Julgue como certo ou errado*] Um conjunto de cinco cargas elétricas pontuais é englobado por uma surperfície arbitrária $S$: $q_1 = +3$ nC, $q_2 = -2$ nC, $q_3 = +2$ nC, $q_4 = +4$ nC e $q_5 = -1$ nC. É correto afirmar que o fluxo elétrico através de $S$ é equivalente a 6 nNm²/C².
 
 2. [*Julgue como certo ou errado*] Se uma carga $q$ estiver localizada no centro de um cabo de lado $T$, o fluxo do campo elétrico $\vec{E}$ através de uma das superfícies do cubo é igual a $q/\left( 4 \epsilon_o \right)$.
 
 3. [*Julgue como certo ou errado*] A magnitude do campo elétrico nas proximidades de qualquer superfície condutora carregada, independentemente do formato, é igual a $\sigma/\epsilon_o$, onde $\sigma$ é a densidade superficial de carga elétrica. Isso é válido para o limite externo à superfície do condutor (ou seja, em uma região muito próxima da superfície).
 
-4. [*Julgue como certo ou errado*] Na Figura 1, o fluxo elétrico observado em $\#A_1$ e $\#A_2$ é equivalente a $-4\mu/\epsilon_o$.
+4. [*Julgue como certo ou errado*] Na Figura 1, o fluxo elétrico observado em #$A_1$ e #$A_2$ é equivalente a $-4\mu/\epsilon_o$.
 
 ![](Fig01.png "Figura 1")
 
